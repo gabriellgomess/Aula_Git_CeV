@@ -1,2 +1,4 @@
-# Aula_Git_CeV
- Repositório das aulas de Git do Curso em Vídeo
+# Aula de Git e GitHub do Curso em Vídeo
+ Repositório das aulas de Git e Git Hub do Curso em Vídeo
+
+ Gabriel Gomes
